@@ -17,4 +17,4 @@ else
  
     Console.WriteLine($"{numerador:N1} dividido por {denominador:N1} é {quociente:N1}.");
 }
-tem menu de contexto
+
